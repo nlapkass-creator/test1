@@ -1,6 +1,3 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,blank_template,replace me with your title,,,yes,
-1,plantilla_en_blanco,reemplázame con tu título,,,yes,
-2,map,map,CA,the animals,yes,
-3,environmental-noise-5xrg,Environmental Noise,Santa Barbara Noise Ordinance (1990),,,
+0,environmental-noise-5xrg,Environmental Noise,Santa Barbara Noise Ordinance (1990),,,
