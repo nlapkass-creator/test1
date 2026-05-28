@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Home
+stories_heading: "Stories"
 ---
 
 {% assign lang = site.data.languages[site.telar_language] | default: site.data.languages.en %}
